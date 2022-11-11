@@ -15,4 +15,4 @@ The financial records of a business can be seen in the following financial state
 3. Statement of Cash Flow
 
 Each of the above financial statement contains specific information that shows 
-financial health of the business or organzation. 
+financial health of the business or an organzation. 
