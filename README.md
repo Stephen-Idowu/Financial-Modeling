@@ -1,1 +1,1 @@
-# Financila-Modeling
+# Financial-Modeling
