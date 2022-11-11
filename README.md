@@ -6,7 +6,7 @@ of the financial performance of a business based on given assumptions and driver
 
 Usually previous historical financial records will be needed before a financial model can be built.
 
-The financial records of a business can be seen in the following financial statement
+The financial records of a business can be seen in the following financial statements
 
 1. Income Statement
 
